@@ -1,15 +1,7 @@
 package com.ldroid.aidlserver;
 
-import android.app.Service;
-import android.content.ComponentName;
-import android.content.Intent;
-import android.content.ServiceConnection;
-import android.os.IBinder;
-import android.os.RemoteException;
-import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
-import android.view.View;
-import android.widget.Toast;
+import android.support.v7.app.AppCompatActivity;
 
 /**
  * 1、新建aidl server aidl client 两个工程
